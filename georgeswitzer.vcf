@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Switzer;George;;;
+FN:George Switzer
+ORG:NASA Langley Research Center
+ADR;TYPE=WORK:Research Directorate 
+TITLE:Aerospace Engineer 
+TEL;TYPE=CELL:+1(757)291-1556
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+1(757)291-1556
+EMAIL;TYPE=WORK:George.F.Switzer@nasa.gov
+URL;TYPE=Digital Business Card:
+URL:
+URL;TYPE=WhatsApp:https://wa.me/17572911556
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Computational Aerosciences Branch
+UID:EnBizCard-100880032
+END:VCARD
